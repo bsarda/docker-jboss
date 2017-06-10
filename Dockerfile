@@ -2,7 +2,7 @@
 # JBoss container base - to be reused by jboss apps containers.
 #   bsarda <b.sarda@free.fr>
 #
-FROM centos:centos7.2.1511
+FROM centos:7
 LABEL maintainer "b.sarda@free.fr"
 
 # expose
